@@ -1,0 +1,26 @@
+.news .award1{
+    height:600px;
+/*    width:240px;*/
+}
+
+.news .award2{
+    height:300px;
+}
+
+.news .award3{
+    margin-top:60px;
+}
+
+.news .award4{
+}
+
+.col1{
+    margin-top:15px;
+    padding:4px;
+    font-weight:600;
+    font-size:17px;
+}
+
+.extra_wrapper p{
+    text-indent:2em;
+}

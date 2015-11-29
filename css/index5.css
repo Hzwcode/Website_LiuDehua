@@ -1,0 +1,24 @@
+h2.social{
+    font-weight:700;
+    font-size:30px;
+    border-left:8px solid ;
+    padding:0px 8px;
+    margin:40px 0px;
+    background-color: rgba(208, 172, 123, 0.46);
+    float:left;
+}
+
+.charity p{
+    text-indent:2em;
+}
+
+.col1{
+    margin-top:15px;
+    padding:4px;
+    font-weight:600;
+    font-size:17px;
+}
+
+.extra_wrapper p{
+    text-indent:2em;
+}

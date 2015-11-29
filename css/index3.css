@@ -1,0 +1,36 @@
+h2.music{
+    font-weight:700;
+    font-size:30px;
+    border-left:8px solid ;
+    padding:0px 8px;
+    margin:40px 13px 20px;
+    background-color: rgba(208, 172, 123, 0.46);
+    float:left;
+}
+
+.myflash{
+/*    margin-top:20px;*/
+}
+
+.myflash ul{
+    
+}
+
+.myflash ul li{
+    margin:30px;
+    height:400px;
+    width:400px;
+    display:inline-block;
+/*    background-color:black;*/
+    border:2px solid #d4c5c5;
+}
+
+.myflash ul li object{
+    width:100%;
+    height:100%;
+}
+
+.myflash .play-button{
+    text-align:center;
+    padding:10px;
+}
